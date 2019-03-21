@@ -19,3 +19,22 @@ It has things that manipulate classes that inherit it, such as changing the numb
 The ElvenCity generator contains a list of Elven sounding prefixes and another list of similar sounding suffixes. 
 It will then pull a random one of each and tether them together to make a name for a city.
 
+## Roadmap
+
+There is a lot to be done with this project. 
+Getting the generators for the dwarven and human cities would be the first thing to do.
+The second to do would be generating mayors as well as the number of people in the city as well as the size of the city. 
+(This would provide a range for the number of people in the city.)
+After that point we could generate histories for the city or produce cities for some of the more exotic races.
+A gui wrapper is a nice finisher for this project.
+
+## Contributing
+
+Email me at dmoody3@stu.jsu.edu if you are interested in collaborating on this project.
+
+## Authors
+
+Dustin Moody - Head Developer
+
+
+
