@@ -9,7 +9,7 @@ package city.generator;
  *
  * @author Dustin Moody
  */
-public class CityMaker {
+public abstract class CityMaker {
     private String cityName;
     private int numberElves;
     private int numberDwarves;
